@@ -1,2 +1,3 @@
 # hello-world
-Sample repository creation
+
+Stan here.  I like cookies - specifically Oreos!
